@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Documentos\Cursos\Rocketseat - EAD\Projetos\C# e .NET\NewProject\bin\Debug\net7.0\NewProject.exe
+C:\Users\user\OneDrive\Documentos\Cursos\Rocketseat - EAD\Projetos\C# e .NET\NewProject\bin\Debug\net7.0\NewProject.deps.json
+C:\Users\user\OneDrive\Documentos\Cursos\Rocketseat - EAD\Projetos\C# e .NET\NewProject\bin\Debug\net7.0\NewProject.runtimeconfig.json
+C:\Users\user\OneDrive\Documentos\Cursos\Rocketseat - EAD\Projetos\C# e .NET\NewProject\bin\Debug\net7.0\NewProject.dll
+C:\Users\user\OneDrive\Documentos\Cursos\Rocketseat - EAD\Projetos\C# e .NET\NewProject\bin\Debug\net7.0\NewProject.pdb
+C:\Users\user\OneDrive\Documentos\Cursos\Rocketseat - EAD\Projetos\C# e .NET\NewProject\obj\Debug\net7.0\NewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documentos\Cursos\Rocketseat - EAD\Projetos\C# e .NET\NewProject\obj\Debug\net7.0\NewProject.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documentos\Cursos\Rocketseat - EAD\Projetos\C# e .NET\NewProject\obj\Debug\net7.0\NewProject.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documentos\Cursos\Rocketseat - EAD\Projetos\C# e .NET\NewProject\obj\Debug\net7.0\NewProject.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documentos\Cursos\Rocketseat - EAD\Projetos\C# e .NET\NewProject\obj\Debug\net7.0\NewProject.dll
+C:\Users\user\OneDrive\Documentos\Cursos\Rocketseat - EAD\Projetos\C# e .NET\NewProject\obj\Debug\net7.0\refint\NewProject.dll
+C:\Users\user\OneDrive\Documentos\Cursos\Rocketseat - EAD\Projetos\C# e .NET\NewProject\obj\Debug\net7.0\NewProject.pdb
+C:\Users\user\OneDrive\Documentos\Cursos\Rocketseat - EAD\Projetos\C# e .NET\NewProject\obj\Debug\net7.0\NewProject.genruntimeconfig.cache
+C:\Users\user\OneDrive\Documentos\Cursos\Rocketseat - EAD\Projetos\C# e .NET\NewProject\obj\Debug\net7.0\ref\NewProject.dll
